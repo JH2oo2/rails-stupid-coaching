@@ -13,3 +13,25 @@
  *= require_tree .
  *= require_self
  */
+.form-label{
+  padding: 16px;
+  color: gray;
+  background-color: antiquewhite;
+  font-size: 20px;
+}
+
+.border {
+  padding: 16px;
+  background-color: antiquewhite;
+  color: gray;
+  font-size: 20px;
+  border-left: 2cm;
+}
+
+.form-label h1, h3 {
+  font-size: 20px;
+}
+
+.border h1, h3{
+  font-size: 20px;
+}
